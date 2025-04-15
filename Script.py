@@ -22,3 +22,4 @@ def main():
 if __name__ == "__main__":
   main()
 
+# This script loads sales data, calculates revenue, and prints the result.
