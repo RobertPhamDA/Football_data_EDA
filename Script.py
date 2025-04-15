@@ -23,3 +23,7 @@ if __name__ == "__main__":
   main()
 
 # This script loads sales data, calculates revenue, and prints the result.
+# It handles missing values in the price and quantity columns by using NaN.
+# The revenue is calculated as price multiplied by quantity.
+print("Script executed successfully.")
+# The script uses pandas for data manipulation and analysis.
